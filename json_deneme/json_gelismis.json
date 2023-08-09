@@ -1,0 +1,22 @@
+{
+    "Üniversite": "Balıkesir Üniversitesi",
+    "Bölüm" : "Bilgisayar Mühendisliği",
+    "Sınıf": "3. Sınıf öğrencisi",
+    "Alanı" : "Php ve back-endci olma yolunda",
+    "Öğrenci Bilgileri" : [
+        {
+            "Adı" :"Kamer Alperen",
+            "soyadı" :"özokutan",
+            "yaş" : "21",
+            "Durum" : "Boktan hissediyormuş kendisi öyle söyledi",
+            "hobileri": "sporu sever"
+        },
+        {
+            "ilişki durumu" :"yapayalnız",
+            "mallık durumu" :"evet",
+            "arkadaşları" : "çok az",
+            "boyu" : "1.81cm",
+            "kilosu": "bayadır tartıya çıkmamış"
+        }  
+    ]
+}
